@@ -1,0 +1,259 @@
+@import"./media";
+
+@media(max-width:1200px) {
+    nav .box2 {
+        display: none;
+
+    }
+
+    header .bix {
+        flex-wrap: wrap-reverse;
+    }
+
+    header .bix1 {
+        width: 100%;
+    }
+
+    header .bix2 h1 {
+        padding-top: 20px;
+        padding-left: 200px;
+
+    }
+
+    header .bix2 p {
+        padding-left: 180px;
+    }
+
+    header .bix2 .click {
+        margin-left: 180px;
+    }
+
+    main .mix {
+        flex-wrap: wrap !important;
+
+    }
+
+    main .mix4 {
+        padding-top: 50px;
+    }
+
+    article .bxo {
+        flex-wrap: wrap;
+    }
+
+
+    article .bxo2 {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    section .card {
+        flex-wrap: wrap;
+    }
+
+    .frame {
+        flex-wrap: wrap;
+    }
+
+    figure .counter {
+        flex-wrap: wrap;
+    }
+
+    .enter .back {
+        flex-wrap: wrap;
+    }
+    
+
+    .ops {
+        padding: 40px 100px;
+    }
+
+    .ops h1 {
+        font-size: 40px;
+    }
+
+    .ops input {
+        width: 500px;
+    }
+
+    .submit {
+        width: 440px;
+
+    }
+
+    .map {
+        flex-wrap: wrap;
+    }
+
+    .map .map1 .container1 {
+        align-items: center !important;
+        margin-left: -110px;
+    }
+  
+
+
+    .map2 {
+        width: 100%;
+        padding-top: 40px;
+    }
+
+     footer ul{
+        flex-wrap: wrap;
+     }
+}
+
+@media(max-width:916px) {
+    main .mix3 {
+        padding-top: 50px;
+    }
+
+    .enter .back1 {
+        width: 500px;
+    }
+
+    .enter .back1 h6 {
+        width: 400px;
+    }
+
+    .enter .back1 img {
+        padding: 30px 220px;
+
+    }
+
+    .enter .back2 {
+
+        width: 500px;
+
+    }
+    .enter .back2 h6 {
+        width: 400px;
+    }
+
+    .enter .back2 img {
+        padding: 30px 220px;
+
+    }
+
+    .ops input {
+        width: 350px;
+
+    }
+
+    .ops h1,
+    h6 {
+        padding-right: 200px;
+    }
+
+    .submit {
+        width: 350px;
+
+    }
+
+    .map1 {
+        width: 100%;
+        padding-right: 50px;
+    }
+
+}
+
+@media(max-width:741px) {
+
+    .ops h1,
+    h6 {
+        width: 600px;
+    }
+    
+
+}
+
+@media(max-width:611px) {
+    header .bix2 h1 {
+        padding-top: 20px;
+        padding-left: 40px;
+        font-size: 50px;
+
+    }
+    .click{
+        width: 290px !important;
+        margin-left: 30px !important;
+    }
+
+    header .bix2 p {
+        padding-left: 40px;
+    }
+
+    header .bix2 .click {
+        margin-left: 40px;
+    }
+
+    main .mix2 {
+        padding-top: 50px;
+    }
+
+    main .mix3 {
+        margin-top: 50px;
+    }
+
+    main .mix4 {
+        margin-top: 50px;
+    }
+
+    .enter .back1 {
+        height: 440px;
+        width: 300px;
+        position: relative;
+
+    }
+    .enter .back1 h6{
+        top: 290px;
+        left: 80px;
+        position: absolute;
+    }
+
+    .enter .back1 img {
+        padding: 30px 125px;
+
+    }
+
+    .enter .back2 {
+        height: 640px;
+        width: 300px;
+
+    }
+
+    .enter .back2 img {
+        padding: 30px 125px;
+
+    }
+    .enter .back2 h6{
+        top: 390px;
+        left: 60px;
+        position: absolute;
+    }
+}
+
+@media(max-width:460px) {
+    
+    .ops h1 {
+        width: 400px;
+        font-size: 30px;
+    }
+
+    .ops h6 {
+        font-size: 14px;
+        width: 400px;
+
+    }
+
+    .ops input {
+        width: 260px;
+    }
+
+    .submit {
+        width: 260px;
+    }
+    .text2 h1{
+        font-size: 50px;
+    }
+   
+}
